@@ -1,0 +1,8 @@
+langchain
+chainlit
+langchain-community
+python-docx
+pypdf
+openai
+chromadb==0.5.3
+langchain_groq
